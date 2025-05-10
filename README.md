@@ -10,7 +10,7 @@
 <p align="left"> <a
 href="https://www.linkedin.com/in/nagashanmugaraj-s-27s2006"
 target="blank"><img
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagashanmugaraj-s-27s2006" /></a> <\p>
+src="https://img.shields.io/github/follow/nagashanmugaraj-s-27s2006?logo=linkedin&style=for-the-badge" alt="nagashanmugaraj-s-27s2006" /></a> <\p>
 
 
 - **🌱 I’m currently learning** 
