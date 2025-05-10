@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/shanmuga_n42344" target="blank"><img src="https://img.shields.io/twitter/follow/shanmuga_n42344?logo=twitter&style=for-the-badge" alt="shanmuga_n42344" /></a> </p>
 
 <p align="left"> <a
-href="https://www.linkedin.com/in/nagashanmugaraj-s-27s2006"
+href="https://linkedin.com/in/nagashanmugaraj-s-27s2006"
 target="blank"><img
 src="https://img.shields.io/github/follow/nagashanmugaraj-s-27s2006?logo=linkedin&style=for-the-badge" alt="nagashanmugaraj-s-27s2006" /></a> <\p>
 
