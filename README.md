@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/shanmuga_n42344" target="blank"><img src="https://img.shields.io/twitter/follow/shanmuga_n42344?logo=twitter&style=for-the-badge" alt="shanmuga_n42344" /></a> </p>
 
-- 🌱 I’m currently learning **Front-End and Back-End Development.**
+- **🌱 I’m currently learning** Front-End and Back-End Development.
 
-- 📃 About me **I'm Naga Shanmuga Raj,an aspiring Electrical and Electronics Engineering (EEE)⚡ student at Chennai Institute of Technology with a strong passion for technology, innovation, and continuous learning. I enjoy blending hardware knowledge 🖥️ with software skills </> to build real-world solutions.**
+- **📃 About me** I'm Naga Shanmuga Raj,an aspiring Electrical and Electronics Engineering (EEE)⚡ student at Chennai Institute of Technology with a strong passion for technology, innovation, and continuous learning. I enjoy blending hardware knowledge 🖥️ with software skills </> to build real-world solutions.
 
-- 📫 To reach me **nagashanmugaraj27@gmail.com**
+- **📫 To reach me** nagashanmugaraj27@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
