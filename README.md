@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagashanmugaraj" alt="nagashanmugaraj" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shanmuga_n42344" target="blank"><img src="https://img.shields.io/twitter/follow/shanmuga_n42344?logo=twitter&style=for-the-badge" alt="shanmuga_n42344" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shanmuga_n42344" target="blank"><img src="https://img.shields.io/twitter/follow/nshanmuga27?logo=twitter&style=for-the-badge" alt="shanmuga_n42344" /></a> </p>
 
 
 
